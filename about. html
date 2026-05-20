@@ -1,16 +1,2 @@
-<section class="content-wrapper">
-    <h1 class="page-header">About <span class="text-red">Latty Weightlifting</span></h1>
-    <div class="red-divider"></div>
-    
-    <div class="card-grid">
-        <div class="card">
-            [span_3](start_span)<h3>Our Mission</h3>[span_3](end_span)
-            [span_4](start_span)[span_5](start_span)<p>To provide clear, science-backed fitness and weightlifting guidance to help lifters of all levels grow stronger safely.[span_4](end_span)[span_5](end_span)</p>
-        </div>
-        <div class="card">
-            [span_6](start_span)<h3>Our Vision</h3>[span_6](end_span)
-            [span_7](start_span)<p>To build a global fitness community centered on strength, health, progression, and physical longevity.[span_7](end_span)</p>
-        </div>
-    </div>
-</section>
+
 
